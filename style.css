@@ -750,13 +750,14 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: 350px;
+    width: 100%;
 }
 
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .avatar {
