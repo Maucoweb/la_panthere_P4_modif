@@ -2301,10 +2301,12 @@ pre code {
     .col-sm-7,
     .col-sm-8,
     .col-sm-9 {
-        float: left
+        display: flex;
+        flex-direction: column;
     }
     .col-sm-12 {
         width: 100%
+        
     }
     .col-sm-11 {
         width: 91.66666667%
@@ -7682,7 +7684,6 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
