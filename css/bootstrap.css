@@ -2305,6 +2305,7 @@ pre code {
     .col-sm-9 {
         display: flex;
         flex-direction: column;
+        align-items: center;
     }
     .col-sm-12 {
         width: 100%
