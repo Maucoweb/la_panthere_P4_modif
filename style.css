@@ -48,7 +48,6 @@ a:hover {
     font-size: 2rem;
     width: 50%;
     margin: auto;
-    font-weight: 500;
 }
 
 
@@ -751,6 +750,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 350px;
 }
 
 .portfolio-row {
@@ -846,7 +846,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
