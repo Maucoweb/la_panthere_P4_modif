@@ -500,6 +500,13 @@ button {
     border-radius: 0;
 }
 
+.h2_mg-md {
+    font-size: larger;
+    margin: auto;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
 .panel-rd {
     border-radius: 30px;
 }
