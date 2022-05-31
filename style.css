@@ -712,14 +712,16 @@ p {
     margin: auto auto auto auto;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    justify-content: center;
     width: 80%;
     align-items: center ;
+    margin-top: 10px;
 
 }
 
 .social_name {
 display: flex;
+color: white!important;
 }
 
 h2 {
@@ -740,6 +742,7 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
     display: flex;
     flex-wrap: wrap;
+    color: white !important;
 }
 
 h1 {
@@ -756,7 +759,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
