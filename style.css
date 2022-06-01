@@ -728,7 +728,7 @@ p {
 
 .social_name {
 display: flex;
-color: white!important;
+color: black!important;
 
 }
 
@@ -767,7 +767,7 @@ h4 {
 }
 
 .white {
-    color: white!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
