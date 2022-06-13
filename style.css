@@ -63,6 +63,10 @@ a:hover {
     padding: 20px 50px;
 }
 
+.bloc-sm-contactez {
+    display: flex;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -327,6 +331,7 @@ a:hover {
     margin-right: -16px;
     float: right;
     z-index: 1;
+    list-style: none;
 }
 
 .nav > li {
@@ -699,6 +704,12 @@ p {
     margin: auto auto auto auto;
 }
 
+.tight-width-whitespace-grey {
+    max-width: 600px;
+    margin: auto auto auto auto;
+    font-weight: 600;
+}
+
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
@@ -812,6 +823,11 @@ h4 {
     color: #F3976C!important;
     font-weight: bolder;
     position: relative;
+}
+
+.tc-grey {
+    color: #333!important;
+
 }
 
 .btn-atomic-tangerine {
