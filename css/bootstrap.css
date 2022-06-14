@@ -2300,7 +2300,6 @@ pre code {
     .col-sm-4,
     .col-sm-5,
     .col-sm-6,
-    .col-sm-6-contact,
     .col-sm-7,
     .col-sm-8,
     .col-sm-9 {
@@ -2330,9 +2329,7 @@ pre code {
     .col-sm-6 {
         width: 50%
     }
-    .col-sm-6-contact{
-        align-items: flex-start;
-    }
+    
     .col-sm-5 {
         width: 41.66666667%
     }
