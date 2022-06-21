@@ -8,7 +8,8 @@ body {
 }
 
 *:focus {
-    border: 5px solid green;
+    border: 4px solid grey;
+    border-radius: 5px;
 }
 
 a,
@@ -755,8 +756,6 @@ h2 {
 
 h3 {
     font-size: 15px;
-    text-transform: uppercase;
-    font-weight: 700;
     color: #333333!important;
 }
 
@@ -828,6 +827,7 @@ h4 {
     color: #F3976C!important;
     font-weight: bolder;
     position: relative;
+    margin-bottom: 3%;
 }
 
 .tc-grey {
@@ -838,6 +838,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black!important;
+    margin-top: 5px;
 }
 
 .btn-atomic-tangerine:hover {
