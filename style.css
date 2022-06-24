@@ -830,6 +830,18 @@ h4 {
     margin-bottom: 3%;
 }
 
+.contrast {
+    background-color: black; 
+     width: 35%;
+    margin: auto;}
+
+    @media  (max-width: 800px) {
+        .contrast {
+           width : 60%;
+        }
+    }
+
+
 .tc-grey {
     color: #333!important;
 
@@ -838,7 +850,6 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black!important;
-    margin-top: 5px;
 }
 
 .btn-atomic-tangerine:hover {
@@ -899,6 +910,8 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
+
+
 
 @media (max-width: 1024px) {
     .bloc {
