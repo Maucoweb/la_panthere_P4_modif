@@ -325,6 +325,7 @@ a:hover {
 
 .navbar-brand img[src$=svg] {
     min-width: 100px;
+    height: 60px;
 }
 
 .nav-center .navbar-brand img {
